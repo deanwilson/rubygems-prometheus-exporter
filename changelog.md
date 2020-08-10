@@ -9,3 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2020-08-10
 ### Added
 - Initial release - just enough code to push a gem count to a prometheus pushgateway - PR#1
+- Added Dockerfile - [PR#3](https://github.com/deanwilson/rubygems-prometheus-exporter/pull/3)
