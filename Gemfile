@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'gems', '~> 1.2.0'
-gem 'prometheus-client', '~> 2.1.0'
+gem 'prometheus-client', '~> 3.0.0'
 
 group :development do
   gem 'rake', '~> 13.0.0'
